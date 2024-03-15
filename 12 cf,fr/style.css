@@ -1,0 +1,11 @@
+img{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+img:hover{
+    transition: 1.5s;
+    transform: rotateX('deg');
+    
+}
